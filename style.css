@@ -1,5 +1,10 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background: #fc792e;
+    padding: 20px 0;
 }
 
 .caixa {
@@ -77,6 +82,7 @@ nav a:hover {
 .produto-preco {
     font-size: 22px;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 footer {
